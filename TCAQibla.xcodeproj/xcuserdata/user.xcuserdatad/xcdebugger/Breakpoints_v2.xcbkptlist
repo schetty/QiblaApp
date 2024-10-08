@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DD87177E-A45E-40B3-B6B7-4BBF00CABBA0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48A874D8-722A-48EB-AFAF-9BCB68BE60D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAQibla/App/Views/QiblaView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FFD9F7C-7DAB-4B5D-B4E6-9B01FB037B78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAQibla/App/Views/QiblaView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4FFD9F7C-7DAB-4B5D-B4E6-9B01FB037B78 - a0045805a940350f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, TCAQibla.CompassView)&gt;, SwiftUI.Text&gt; in TCAQibla.QiblaView.body.getter : some"
+                  moduleName = "TCAQibla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Projects/TCAQibla/TCAQibla/App/Views/QiblaView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "230">
+               </Location>
+               <Location
+                  uuid = "4FFD9F7C-7DAB-4B5D-B4E6-9B01FB037B78 - a0045805a940350f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI._ConditionalContent&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, TCAQibla.CompassView)&gt;, SwiftUI.Text&gt; in TCAQibla.QiblaView.body.getter : some"
+                  moduleName = "TCAQibla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Projects/TCAQibla/TCAQibla/App/Views/QiblaView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "1475">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4A3EBEE-3413-4EE7-97EB-E6DC6CA8F680"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TCAQibla/App/Features/QiblaFeature.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E4A3EBEE-3413-4EE7-97EB-E6DC6CA8F680 - 1afd4ffa73df03cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout TCAQibla.QiblaFeature.State, TCAQibla.QiblaFeature.Action) -&gt; ComposableArchitecture.Effect&lt;TCAQibla.QiblaFeature.Action&gt; in TCAQibla.QiblaFeature.body.getter : some"
+                  moduleName = "TCAQibla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Projects/TCAQibla/TCAQibla/App/Features/QiblaFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "665">
+               </Location>
+               <Location
+                  uuid = "E4A3EBEE-3413-4EE7-97EB-E6DC6CA8F680 - 1afd4ffa73df03cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (inout TCAQibla.QiblaFeature.State, TCAQibla.QiblaFeature.Action) -&gt; ComposableArchitecture.Effect&lt;TCAQibla.QiblaFeature.Action&gt; in TCAQibla.QiblaFeature.body.getter : some"
+                  moduleName = "TCAQibla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Projects/TCAQibla/TCAQibla/App/Features/QiblaFeature.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "834">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
